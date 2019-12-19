@@ -1,0 +1,46 @@
+{
+    "name": "Digit-Eyes",
+    "description": "iPhone app that enables the visually-impaired and blind to identify items with QR code and UPC \/ EAN bar codes.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1719-digit-eyes.jpg",
+    "tags": [
+        "api provider",
+        "ean",
+        "have api",
+        "identities"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/digiteyes\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Digit-Eyes",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1719-digit-eyes.jpg",
+            "humanURL": "http:\/\/www.digit-eyes.com\/api.html",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digiteyes-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/digiteyes-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Digit_eyes"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.digit-eyes.com\/api.html"
+        }
+    ]
+}
